@@ -1,0 +1,93 @@
+h1{
+	font-family: Baskerville Old Face;
+	font-size: 50px;
+}
+h2{
+	font-family: Arial;
+	font-size: 25px;
+}
+.slider{
+	background:#000000;
+}
+.Perfil{
+	width: 250px;
+	height: 250px;
+	border-radius: 100%;
+	border: 6px solid #ffff; 
+}
+.logo{
+	height: 60px;
+	width: 60px;
+}
+p{
+	font-family: Calibri;
+	font-size: 19px;
+}
+.resumen{
+	font-family: Cambria;
+	font-size: 35px;
+}
+.letraresumen{
+	font-family: Calibri;
+	font-size: 19px;
+}
+.logoresumen{
+	width: 150px;
+	height: 150px;
+	border-radius: 100%;
+}
+.segundaseccion{
+	background:#1B2631;
+}
+.iconos{
+	font-size: 160px;
+	color: white;
+}
+.iconos2{
+	font-size: 160px;
+	color: white;
+}
+.iconos3{
+	font-size: 160px;
+	color: white;
+}
+.iconos4{
+	font-size: 160px;
+	color: white;
+}
+.iconos5{
+	font-size: 160px;
+	color: yellow;
+}
+.iconos6{
+	font-size: 50px;
+	color: blue;
+}
+h3{
+	font-family: Cambria;
+	font-size: 35px;
+	text-align: center;
+}
+li{
+	font-size: 19px;
+	font-family: Calibri;
+	text-align: center;
+	list-style: none;
+}
+.bombilla{
+	font-family: Cambria;
+	font-size: 35px;
+	text-align: center;
+	color: yellow;
+}
+.segundaletra{
+	color: yellow;
+}
+.slider2{
+	background: #000000;
+	font-family: consolas;
+}
+.idioms{
+	font-family: consolas;
+	font-size: 19px;
+}
